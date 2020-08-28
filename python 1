@@ -1,1 +1,13 @@
 print("Hello World!")
+
+#Learning Varibles and Starting to code
+
+print("Hello World!")
+char_name = "Nihar"
+print("My name is " + char_name + " and I am 16 years old.")
+print(char_name + " is")
+print(char_name + " ito")
+print(char_name + " very")
+print(char_name + " szsz")
+print("I love to play football.")
+print("I love playing cricket")
