@@ -11,3 +11,13 @@ print(char_name + " very")
 print(char_name + " szsz")
 print("I love to play football.")
 print("I love playing cricket")
+char_name = "sam"
+char_age = "14"
+print("There once was a boy named " + char_name + ", ")
+print("He really loved to be " + char_age + ",")
+char_name = "Tom"
+print("He really liked the name " + char_name + ", ")
+char_age = "12"
+print("His age was " + char_age + ", ")
+char_age = "70"
+print("But he didnt liked the age " + char_age + ", ")
