@@ -21,3 +21,8 @@ char_age = "12"
 print("His age was " + char_age + ", ")
 char_age = "70"
 print("But he didnt liked the age " + char_age + ", ")
+
+# Making_list
+nameof_friends = ["sahil" , "viraj" , "nihar" , "vikrant"]
+nameof_friends.insert(1, "jake")
+print(nameof_friends)
