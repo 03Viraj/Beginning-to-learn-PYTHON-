@@ -27,7 +27,7 @@ nameof_friends = ["sahil" , "viraj" , "nihar" , "vikrant"]
 nameof_friends.insert(1, "jake")
 print(nameof_friends)
 
-#Learning Input tool                                               Always give a header to neew elements or functions it's easier to navigate the tool!! 
+#Learning Input tool                                               Always give a header to new elements or functions it's easier to navigate the tool!! 
 name = input("Enter your name: ")
 age = input("Enter your age: ")
 print("Hello " + name + "! you are " + age)
