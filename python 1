@@ -26,3 +26,8 @@ print("But he didnt liked the age " + char_age + ", ")
 nameof_friends = ["sahil" , "viraj" , "nihar" , "vikrant"]
 nameof_friends.insert(1, "jake")
 print(nameof_friends)
+
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello " + name + "! you are " + age)
