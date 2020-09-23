@@ -61,6 +61,12 @@ friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
 print(friends.index("Kevin"))
 
 
+def sayhi():
+    print("Hello User")
+print("Top")
+sayhi()
+print("Bottom")
+
 
 
 
